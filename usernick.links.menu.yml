@@ -1,0 +1,6 @@
+usernick.admin:
+  title: 'User Nick Settings'
+  description: 'Usernick settings page link'
+  parent: system.admin_config_development
+  route_name: usernick.whoami
+  weight: 100

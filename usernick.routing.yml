@@ -1,0 +1,8 @@
+usernick.content:
+  path: '/usernick'
+  defaults:
+    _controller: '\Drupal\usernick\Controller\UsernickController::whoami'
+    _title: 'User Nick'
+    _form: '\Drupal\usernick\Form\UsernickForm'
+  requirements:
+    _permission: 'access content'

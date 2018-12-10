@@ -1,0 +1,8 @@
+name: 'usernick module'
+description: 'the module gives usernick suggestions'
+package: 'aniketdvd module set'
+type: 'module'
+#version: 1.0 
+  # the version is added 
+  # by Drupal's packager.
+core: 8.x

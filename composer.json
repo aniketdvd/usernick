@@ -1,0 +1,20 @@
+{
+  "_comment": "This composer.json file is not that important",
+  "name": "drupal/usernick",
+  "description": "the module gives usernick suggestions",
+  "type": "drupal-module",
+  "homepage": "https://github.com/aniketdvd/usernick",
+  "authors": [
+    {
+      "name": "Aniket Dwivedi",
+      "homepage": "https://aniketdvd.github.io",
+      "role": "Owner and maintainer"
+    }
+  ]
+  "support": {
+    "issues": "https://github.com/aniketdvd/usernick/issues",
+    "source": "https://github.com/aniketdvd/usernick"
+  },
+  "license": "GNU GPLv3",
+  "minimum-stablility": "dev"
+}
